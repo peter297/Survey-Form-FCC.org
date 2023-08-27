@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(211, 211, 226, 0.925);
+    
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+    
+
+}
+
+p{
+    text-align: center;
+    margin-top: 5px;
+    font-weight: 700;
+    
+}
+
+#survey-form{
+    width: 700px;
+    padding-top: 20px;
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(50, 50, 121);
+    opacity: 0.9;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    
+
+    
+}
+
+.form-input{
+    display: block;
+    margin-left: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 92%;
+    
+    
+}
+
+.form-label{
+    margin-left: 20px;
+    font-size: 17px;
+    
+}
+
+.radios{
+    margin-left: 20px;
+    display: block;
+}
+
+.comments{
+    width: 92%;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+.submit-button{
+    width: 85%;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: none;
+    background-color: green;
+    
+}
+
+.submit-button:hover{
+    background-color: rgb(40, 184, 59);
+}
+
+.definately{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+
+.maybe{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.not-sure{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.radio-label{
+    display: inline-block;
+    
+}
+
+.check{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+
+#frontend{
+    padding: 20px 20px;
+}
