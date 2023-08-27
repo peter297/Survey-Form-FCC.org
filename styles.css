@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
     background-position: center;
     background-size: cover;
-    background-color: rgba(211, 211, 226, 0.925);
+    background-image: url(background-image.jpg);
     
     
 }
@@ -12,6 +12,7 @@ body{
 h1{
     text-align: center;
     font-weight: 900;
+    color: white;
     
 
 }
@@ -20,6 +21,7 @@ p{
     text-align: center;
     margin-top: 5px;
     font-weight: 700;
+    color: white;
     
 }
 
